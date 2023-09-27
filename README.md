@@ -1,6 +1,5 @@
 # wooden-funiture-figma-design
-## wooden furniture mobile app is designd using Figma
-## Design secreenshots;
+## - wooden-furniture mobile app is designd using Figma
 ### -Register and Home Pages;
 ![Register and Home Pages](./wooden.png)
 
